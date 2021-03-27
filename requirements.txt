@@ -1,0 +1,8 @@
+python-dotenv==0.15.0
+py-solc-x==1.1.0
+pytest==6.0.1
+web3==5.11.1
+# Test suite using ganache
+# NOTE: brownie is installed globally for CLI tasks,
+# but we also use it as a package for deployment
+eth-brownie==1.14.2
